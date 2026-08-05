@@ -1,14 +1,15 @@
 Oi, Jéssica! Tudo bem?
 
-Sou da Cientes, estúdio de criação de sites, e conheci seu trabalho por aqui em Campo Grande — nota 5,0 no Google, com 73 avaliações, e um jeito de atender que aparece bastante nos comentários das suas pacientes.
+Pesquisando nutricionistas em Campo Grande, cheguei no seu site e no seu perfil do Google — 5,0 de nota, com 73 avaliações. Dei uma lida em algumas e dá pra ver que o carinho que você descreve no atendimento é real, não é só discurso de site.
 
-Gostamos de criar peças pra profissionais que já têm um padrão alto, e por isso montamos uma proposta de nova landing page pensada pro seu momento: mantendo seu logo, suas cores e suas fotos, com as especialidades organizadas em blocos, as avaliações reais do Google em destaque e um único botão de WhatsApp levando direto pra marcar consulta.
+Só que reparei que o site atual (o da Numax) não mostra nada disso: o WhatsApp não aparece como botão em lugar nenhum, ansiedade, emagrecimento e saúde da mulher ficam tudo misturado num texto só, e mesmo com 73 avaliações 5 estrelas no Google, nenhuma delas aparece na página.
 
-Fica aqui, sem compromisso, pra você navegar com calma:
+Fiz, por conta própria, uma nova versão pra te mostrar como isso poderia ficar: mantive seu logo, suas cores e suas fotos, separei suas especialidades em blocos, trouxe 3 depoimentos reais direto do seu Google como prova social, e deixei um único botão de WhatsApp levando direto pra marcar consulta — sempre com o mesmo texto, em vários pontos da página.
+
+Dá uma olhada com calma, sem compromisso nenhum:
 👉 https://pablorieger.github.io/proposta-jessica/
 
-Ficaríamos felizes em saber o que achou.
+Queria muito saber o que você achou.
 
 Um abraço,
 Juliana Rieger
-Cientes
